@@ -10,8 +10,8 @@ public class mainHolaMundo {
 		
 		Fibonaker fibo = new Fibonaker();
 		
-		System.out.println(fibo.fibonaze());
-		System.out.println(fibo.fibonaze());
+		//System.out.println(fibo.fibonaze());
+		//System.out.println(fibo.fibonaze());
 		System.out.println(fibo.fibonaze());
 		System.out.println(fibo.fibonaze());
 		
