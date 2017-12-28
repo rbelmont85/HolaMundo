@@ -1,20 +1,20 @@
 package main;
 
 import core.Coche;
+import core.Fibonaker;
 
 public class mainHolaMundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola Mundo");
-
-		System.out.println("Hola Mundo vero 4");
 		
-		Coche coche1 = new Coche(4,4);
+		Fibonaker fibo = new Fibonaker();
 		
-		System.out.println("El cohce 1 tiene " + coche1.getRuedas() + " ruedas");
+		System.out.println(fibo.fibonaze());
+		System.out.println(fibo.fibonaze());
+		System.out.println(fibo.fibonaze());
+		System.out.println(fibo.fibonaze());
 		
-		System.out.println("El coche 1 tiene " +coche1.getPuertas() + " puertas");
 		
 
 	}
