@@ -8,7 +8,7 @@ public class mainHolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 
-		System.out.println("Hola Mundo vero");
+		System.out.println("Hola Mundo vero 4");
 		
 		Coche coche1 = new Coche(4,4);
 		
